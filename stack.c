@@ -4,7 +4,9 @@ void main()
 	printf("\nblah blah")
 
 
+	printf("blah")
 
-
-int pop
 }
+void pop
+{
+} 
